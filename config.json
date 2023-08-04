@@ -1,0 +1,12 @@
+{
+
+    "token": "",
+    "prefix": ".",
+    "channel_name": "",
+    "role_name": "",
+    "spam_message": "",
+    "server_name": "",
+    "wall_role": 123,
+    "family_role": 123,
+    "allowed_ids": []
+}
